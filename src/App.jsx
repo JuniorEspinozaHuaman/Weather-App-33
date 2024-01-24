@@ -52,7 +52,7 @@ function App() {
 
   }, [coords])
 
-  // console.log(weather);
+  console.log(weather);
 
   return (
     <div className='app'>
